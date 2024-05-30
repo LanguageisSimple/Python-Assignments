@@ -1,7 +1,3 @@
-Certainly, Iron Man. Here is a comprehensive README file for your "Python Assignments" repository:
-
----
-
 # Python Assignments
 
 Welcome to the "Python Assignments" repository! This repository is designed to serve as a collection of common Python assignments aimed at helping individuals improve their coding skills and understanding of Python.
@@ -29,12 +25,10 @@ Python-Assignments/
 │   ├── README.md
 │   ├── assignment1.py
 │   ├── solution1.py
-│   └── test_assignment1.py
 ├── Assignment2/
 │   ├── README.md
 │   ├── assignment2.py
 │   ├── solution2.py
-│   └── test_assignment2.py
 └── ...
 ```
 
@@ -43,7 +37,6 @@ Each assignment is contained within its own directory and includes:
 - `README.md`: A description of the assignment and any specific instructions.
 - `assignment.py`: The main assignment file where the problem statement is provided.
 - `solution.py`: A sample solution for the assignment.
-- `test_assignment.py`: Test cases for validating the solution.
 
 ## Assignments
 
