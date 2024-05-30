@@ -34,9 +34,9 @@ Python-Assignments/
 
 Each assignment is contained within its own directory and includes:
 
-- `README.md`: A description of the assignment and any specific instructions.
-- `assignment.py`: The main assignment file where the problem statement is provided.
-- `solution.py`: A sample solution for the assignment.
+- `Readme.md`: A description of the assignment and any specific instructions.
+- `Assignment.py`: The main assignment file where the solution to the problem statement is provided.
+- `Question.png`: The Question of the Assignment is provided.
 
 ## Assignments
 
