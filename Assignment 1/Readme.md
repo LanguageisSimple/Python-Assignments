@@ -34,19 +34,19 @@ The provided Python program accomplishes the task with the following steps:
 
 ## How to Run the Program
 
-1. Save the code in a file named `assignment1.py`.
+1. Save the code in a file named `Assignment 1.py`.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the file is saved.
 4. Run the program using the following command:
    ```sh
-   python assignment1.py
+   python Assignment 1.py
    ```
 5. Follow the on-screen prompt to enter a floating point number.
 
 ## Example
 
 ```sh
-$ python assignment1.py
+$ python Assignment 1.py
 Enter a number : 3.14
 3
 ```
