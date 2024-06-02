@@ -21,14 +21,14 @@ The repository is organized as follows:
 
 ```
 Python-Assignments/
-├── Assignment1/
-│   ├── README.md
-│   ├── assignment1.py
-│   ├── solution1.py
-├── Assignment2/
-│   ├── README.md
-│   ├── assignment2.py
-│   ├── solution2.py
+├── Assignment 1/
+│   ├── Readme.md
+│   ├── Assignment 1.py
+│   ├── Question.png
+├── Assignment 2/
+│   ├── Readme.md
+│   ├── Assignment 2.py
+│   ├── Question.png
 └── ...
 ```
 
@@ -40,10 +40,14 @@ Each assignment is contained within its own directory and includes:
 
 ## Assignments
 
-1. **Assignment 1:** [Description of Assignment 1]
-2. **Assignment 2:** [Description of Assignment 2]
-3. **Assignment 3:** [Description of Assignment 3]
-4. **...**
+1. **Assignment 1:** 
+2. **Assignment 2:** 
+3. **Assignment 3:** 
+4. **Assignment 3:** 
+5. **Assignment 3:** 
+6. **Assignment 3:** 
+7. **Assignment 3:** 
+8. **Assignment 3:** 
 
 Each assignment is designed to focus on specific concepts and techniques in Python. Please refer to the individual `README.md` files within each assignment directory for detailed instructions.
 
