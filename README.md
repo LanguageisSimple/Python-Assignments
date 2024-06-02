@@ -49,7 +49,7 @@ Each assignment is contained within its own directory and includes:
 7. **Assignment 3:** 
 8. **Assignment 3:** 
 
-Each assignment is designed to focus on specific concepts and techniques in Python. Please refer to the individual `README.md` files within each assignment directory for detailed instructions.
+Each assignment is designed to focus on specific concepts and techniques in Python. Please refer to the individual `Readme.md` files within each assignment directory for detailed instructions.
 
 ## How to Use
 
