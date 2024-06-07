@@ -40,7 +40,7 @@ Each assignment is contained within its own directory and includes:
 
 ## Assignments
 
-1. **Assignment 1:** (Repository)[https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2001]
+1. **Assignment 1:** [Repository 1](#https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2001)
 2. **Assignment 2:** 
 3. **Assignment 4:**  
 4. **Assignment 3:** 
