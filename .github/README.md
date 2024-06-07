@@ -40,14 +40,17 @@ Each assignment is contained within its own directory and includes:
 
 ## Assignments
 
-1. **Assignment 1:** [Repository 1](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2001)
-2. **Assignment 2:** 
-3. **Assignment 4:**  
-4. **Assignment 3:** 
-5. **Assignment 3:** 
-6. **Assignment 3:** 
-7. **Assignment 3:** 
-8. **Assignment 3:** 
+1. **Assignment 1:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2001)
+2. **Assignment 2:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2002)
+3. **Assignment 3:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2003)
+4. **Assignment 4:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2004)
+5. **Assignment 5:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2005)
+6. **Assignment 6:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2006)
+7. **Assignment 7:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2007)
+8. **Assignment 8:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2008)
+9. **Assignment 9:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2009)
+10. **Assignment 10:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2010)
+11. **Assignment 11:** [Repository Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2011)
 
 Each assignment is designed to focus on specific concepts and techniques in Python. Please refer to the individual `Readme.md` files within each assignment directory for detailed instructions.
 
