@@ -51,6 +51,11 @@ Each assignment is contained within its own directory and includes:
 9. **Assignment 9:** Showcasing the usage of Addition Assignment Operator ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2009))
 10. **Assignment 10:** Showcasing the usage of Modulus Assignment Operator ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2010))
 11. **Assignment 11:** Finding the number of vowels in a word ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2011))
+12. **Assignment 12:** Returning the ASCII value of a character ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2012))
+13. **Assignment 13:** Finding the factorial of a number using recursion ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2013))
+14. **Assignment 14:** Counting the occurrence of each word in a text file ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2014))
+15. **Assignment 15:** Returning the count of a specific element from a list of elements ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2015))
+16. **Assignment 16:** Reversing a string input using slicing and iteration ([Directory Link](https://github.com/LanguageisSimple/Python-Assignments/tree/main/Assignment%2016))
 
 Each assignment is designed to focus on specific concepts and techniques in Python. Please refer to the individual `Readme.md` files within each assignment directory for detailed instructions.
 
